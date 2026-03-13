@@ -4,7 +4,7 @@
 
 A comprehensive educational simulation of an Arterial Blood Gas (ABG) analyzer, demonstrating the physics and electronics behind blood gas measurements.
 
-![ABG Analyzer Main Window](screenshot.png)
+![ABG Analyzer Main Window](Screenshot.png)
 *Figure 1: Main application window with waveform displays and controls*
 
 ![ABG Analysis Results](results.png)
