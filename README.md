@@ -1,6 +1,5 @@
-Ah, you want to add a screenshot image reference to the README file! Here's the updated README with a placeholder for the results.png image:
 
-```markdown
+
 # ABG Analyzer Simulation
 
 A comprehensive educational simulation of an Arterial Blood Gas (ABG) analyzer, demonstrating the physics and electronics behind blood gas measurements.
